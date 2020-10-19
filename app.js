@@ -1,1 +1,1 @@
-$("#box").addClass("red-old-2");
+$("#box").hide();
