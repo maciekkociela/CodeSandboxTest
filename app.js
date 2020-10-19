@@ -1,1 +1,1 @@
-$("#box").addClass("red");
+$("#box").addClass("red-old");
