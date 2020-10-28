@@ -1,3 +1,3 @@
 $("#box").on("click", function () {
-  $("#box").hide();
+  $("#box").addClass("orange-text");
 });
